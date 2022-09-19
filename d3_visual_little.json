@@ -95,7 +95,8 @@
             "source": "增稠剂",
             "target": "田菁胶",
             "values": 3
-        },
+        }
+    ],
     "nodes": [
         {
             "class": "食品",
