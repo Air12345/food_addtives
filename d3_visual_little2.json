@@ -1,0 +1,5812 @@
+{
+    "links": [
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "果蔬粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "除上述之外的其他固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "麦芽汁发酵的非酒精固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "固体碳酸饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "特殊用途固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "风味固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "植物固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "茶类固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他固体饮料",
+            "target": "果蔬固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酒类",
+            "target": "蒸馏酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酒类",
+            "target": "发酵酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酒类",
+            "target": "配制酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蒸馏酒",
+            "target": "白酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蒸馏酒",
+            "target": "其他蒸馏酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蒸馏酒",
+            "target": "朗姆酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蒸馏酒",
+            "target": "伏特加",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蒸馏酒",
+            "target": "威士忌",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蒸馏酒",
+            "target": "白兰地",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蒸馏酒",
+            "target": "调香蒸馏酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵酒",
+            "target": "葡萄酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵酒",
+            "target": "其他发酵酒类（充气型）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵酒",
+            "target": "啤酒和麦芽饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵酒",
+            "target": "蜂蜜酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵酒",
+            "target": "果酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵酒",
+            "target": "黄酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "葡萄酒",
+            "target": "特种葡萄酒（按特殊工艺加工制作的葡萄酒，如在葡萄原酒中加入白兰地，浓缩葡萄汁等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "葡萄酒",
+            "target": "调香葡萄酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "葡萄酒",
+            "target": "起泡和半起泡葡萄酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "葡萄酒",
+            "target": "无汽葡萄酒",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他类（第01.0-15.0类除外）",
+            "target": "果冻",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他类（第01.0-15.0类除外）",
+            "target": "其他",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他类（第01.0-15.0类除外）",
+            "target": "膨化食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他类（第01.0-15.0类除外）",
+            "target": "--",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他类（第01.0-15.0类除外）",
+            "target": "酵母及酵母类制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他类（第01.0-15.0类除外）",
+            "target": "胶原蛋白肠衣",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其他类（第01.0-15.0类除外）",
+            "target": "茶叶、咖啡和茶制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "茶叶、咖啡和茶制品",
+            "target": "茶叶、咖啡",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "茶叶、咖啡和茶制品",
+            "target": "茶制品（包括调味茶和代用茶）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酵母及酵母类制品",
+            "target": "干酵母",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酵母及酵母类制品",
+            "target": "其他酵母及酵母类制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "巴氏杀菌乳、灭菌乳和调制乳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "其他乳制品（如乳清粉、酪蛋白粉）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "以乳为主要配料的即食风味食品或其预制产品（不包括冰淇淋和风味发酵乳）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "干酪和再制干酪及其类似品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "稀奶油（淡奶油）及其类似品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "炼乳及其调制产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "乳粉（包括加糖乳粉）和奶油粉及其调制产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+            "target": "发酵乳和风味发酵乳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "巴氏杀菌乳、灭菌乳和调制乳",
+            "target": "巴氏杀菌乳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "巴氏杀菌乳、灭菌乳和调制乳",
+            "target": "调制乳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "巴氏杀菌乳、灭菌乳和调制乳",
+            "target": "灭菌乳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵乳和风味发酵乳",
+            "target": "发酵乳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵乳和风味发酵乳",
+            "target": "风味发酵乳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳粉（包括加糖乳粉）和奶油粉及其调制产品",
+            "target": "乳粉和奶油粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳粉（包括加糖乳粉）和奶油粉及其调制产品",
+            "target": "调制乳粉和调制奶油粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "炼乳及其调制产品",
+            "target": "淡炼乳（原味）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "炼乳及其调制产品",
+            "target": "调制炼乳（包括加糖炼乳及使用了非乳原料的调制炼乳等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稀奶油（淡奶油）及其类似品",
+            "target": "稀奶油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稀奶油（淡奶油）及其类似品",
+            "target": "稀奶油类似品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稀奶油（淡奶油）及其类似品",
+            "target": "调制稀奶油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稀奶油（淡奶油）及其类似品",
+            "target": "--",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "干酪和再制干酪及其类似品",
+            "target": "非熟化干酪",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "干酪和再制干酪及其类似品",
+            "target": "乳清蛋白干酪",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "干酪和再制干酪及其类似品",
+            "target": "干酪类似品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "干酪和再制干酪及其类似品",
+            "target": "再制干酪",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "干酪和再制干酪及其类似品",
+            "target": "乳清干酪",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "干酪和再制干酪及其类似品",
+            "target": "熟化干酪",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "再制干酪",
+            "target": "普通再制干酪",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "再制干酪",
+            "target": "调味再制干酪",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "脂肪，油和乳化脂肪制品",
+            "target": "基本不含水的脂肪和油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "脂肪，油和乳化脂肪制品",
+            "target": "其他油脂或油脂制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "脂肪，油和乳化脂肪制品",
+            "target": "脂肪类甜品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "脂肪，油和乳化脂肪制品",
+            "target": "02.02类以外的脂肪乳化制品，包括混合的和（或）调味的脂肪乳化制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "脂肪，油和乳化脂肪制品",
+            "target": "水油状脂肪乳化制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "基本不含水的脂肪和油",
+            "target": "无水黄油，无水乳脂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "基本不含水的脂肪和油",
+            "target": "动物油脂（包括猪油、牛油、鱼油和其他动物脂肪等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "基本不含水的脂肪和油",
+            "target": "植物油脂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "植物油脂",
+            "target": "氢化植物油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "植物油脂",
+            "target": "植物油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水油状脂肪乳化制品",
+            "target": "脂肪含量80%以上的乳化制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水油状脂肪乳化制品",
+            "target": "脂肪含量80%以下的乳化制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "脂肪含量80%以上的乳化制品",
+            "target": "黄油和浓缩黄油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "脂肪含量80%以上的乳化制品",
+            "target": "人造黄油（人造奶油）及其类似制品（如黄油和人造黄油混合品）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻饮品",
+            "target": "冰淇淋、雪糕类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻饮品",
+            "target": "其他冷冻饮品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻饮品",
+            "target": "食用冰",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻饮品",
+            "target": "风味冰、冰棍类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻饮品",
+            "target": "--",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水果、蔬菜（包括块根类）、豆类、食用菌、藻类、坚果以及籽类等",
+            "target": "水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水果、蔬菜（包括块根类）、豆类、食用菌、藻类、坚果以及籽类等",
+            "target": "坚果和籽类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水果、蔬菜（包括块根类）、豆类、食用菌、藻类、坚果以及籽类等",
+            "target": "豆类制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水果、蔬菜（包括块根类）、豆类、食用菌、藻类、坚果以及籽类等",
+            "target": "食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水果、蔬菜（包括块根类）、豆类、食用菌、藻类、坚果以及籽类等",
+            "target": "蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水果",
+            "target": "新鲜水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水果",
+            "target": "加工水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜水果",
+            "target": "去皮或预切的鲜水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜水果",
+            "target": "经表面处理的鲜水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜水果",
+            "target": "未经加工的鲜果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "冷冻水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "其他加工水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "煮熟的或油炸的水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "发酵的水果制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "水果甜品，包括果味液体甜品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "装饰性果蔬",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "蜜饯凉果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "除04.01.02.05以外的果酱（如印度酸辣酱）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "果泥",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "果酱",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "水果罐头",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "醋、油或盐渍水果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工水果",
+            "target": "水果干类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蔬菜",
+            "target": "新鲜蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蔬菜",
+            "target": "加工蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜蔬菜",
+            "target": "豆芽菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜蔬菜",
+            "target": "去皮、切块或切丝的蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜蔬菜",
+            "target": "经表面处理的新鲜蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜蔬菜",
+            "target": "未经加工鲜蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "冷冻蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "其他加工蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "经水煮或油炸的蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "发酵蔬菜制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "蔬菜泥（酱），番茄沙司除外",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "蔬菜罐头",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "腌渍的蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "干制蔬菜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "食用菌和藻类",
+            "target": "新鲜食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "食用菌和藻类",
+            "target": "加工食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜食用菌和藻类",
+            "target": "去皮、切块或切丝的食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜食用菌和藻类",
+            "target": "经表面处理的鲜食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "新鲜食用菌和藻类",
+            "target": "未经加工鲜食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工食用菌和藻类",
+            "target": "冷冻食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工食用菌和藻类",
+            "target": "其他加工食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工食用菌和藻类",
+            "target": "经水煮或油炸的藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工食用菌和藻类",
+            "target": "食用菌和藻类罐头",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工食用菌和藻类",
+            "target": "腌渍的食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工食用菌和藻类",
+            "target": "干制食用菌和藻类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "豆类制品",
+            "target": "非发酵豆制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "豆类制品",
+            "target": "其他豆制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "豆类制品",
+            "target": "发酵豆制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "非发酵豆制品",
+            "target": "豆腐类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "非发酵豆制品",
+            "target": "熟制豆类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "非发酵豆制品",
+            "target": "新型豆制品（大豆蛋白及其膨化食品、大豆素肉等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "非发酵豆制品",
+            "target": "腐竹类（包括腐竹、油皮等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "非发酵豆制品",
+            "target": "豆干再制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "非发酵豆制品",
+            "target": "豆干类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵豆制品",
+            "target": "腐乳类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "发酵豆制品",
+            "target": "豆豉及其制品（包括纳豆）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "坚果和籽类",
+            "target": "新鲜坚果与籽类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "坚果和籽类",
+            "target": "加工坚果与籽类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工坚果与籽类",
+            "target": "熟制坚果与籽类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工坚果与籽类",
+            "target": "其他加工的坚果与籽类（如腌渍的果仁）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工坚果与籽类",
+            "target": "坚果与籽类的泥（酱），包括花生酱等",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工坚果与籽类",
+            "target": "坚果与籽类罐头",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工坚果与籽类",
+            "target": "--",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "可可制品、巧克力和巧克力制品（包括代可可脂巧克力及制品）以及糖果",
+            "target": "可可制品、巧克力和巧克力制品,包括代可可脂巧克力及制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "可可制品、巧克力和巧克力制品（包括代可可脂巧克力及制品）以及糖果",
+            "target": "装饰糖果（如工艺造型，或用于蛋糕装饰）、顶饰（非水果材料）和甜汁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "可可制品、巧克力和巧克力制品（包括代可可脂巧克力及制品）以及糖果",
+            "target": "糖果和巧克力制品包衣",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "可可制品、巧克力和巧克力制品（包括代可可脂巧克力及制品）以及糖果",
+            "target": "糖果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "可可制品、巧克力和巧克力制品,包括代可可脂巧克力及制品",
+            "target": "可可制品（包括以可可为主要原料的脂、粉、浆、酱、馅等)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "可可制品、巧克力和巧克力制品,包括代可可脂巧克力及制品",
+            "target": "代可可脂巧克力及使用可可脂代用品的巧克力类似产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "可可制品、巧克力和巧克力制品,包括代可可脂巧克力及制品",
+            "target": "巧克力和巧克力制品、除05.01.01以外的可可制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "糖果",
+            "target": "胶基糖果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "糖果",
+            "target": "除胶基糖果以外的其他糖果",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "原粮",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "粮食制品馅料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "谷类和淀粉类甜品（如米布丁、木薯布丁）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "冷冻米面制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "方便米面制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "即食谷物，包括碾轧燕麦（片）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "淀粉及淀粉类制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "杂粮粉及其制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "小麦粉及其制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+            "target": "大米及其制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "大米及其制品",
+            "target": "米粉制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "大米及其制品",
+            "target": "米粉（包括汤圆粉等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "大米及其制品",
+            "target": "大米制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "大米及其制品",
+            "target": "大米",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉及其制品",
+            "target": "小麦粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉及其制品",
+            "target": "小麦粉制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉",
+            "target": "专用小麦粉（如自发粉、饺子粉等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉",
+            "target": "通用小麦粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉制品",
+            "target": "生湿面制品（如面条、饺子皮、馄饨皮、烧麦皮）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉制品",
+            "target": "油炸面制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉制品",
+            "target": "面糊（如用于鱼和禽肉的拖面糊）、裹粉、煎炸粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉制品",
+            "target": "发酵面制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "小麦粉制品",
+            "target": "生干面制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "杂粮粉及其制品",
+            "target": "杂粮粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "杂粮粉及其制品",
+            "target": "杂粮制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "杂粮制品",
+            "target": "杂粮罐头",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "杂粮制品",
+            "target": "其他杂粮制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "淀粉及淀粉类制品",
+            "target": "食用淀粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "淀粉及淀粉类制品",
+            "target": "淀粉制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "淀粉制品",
+            "target": "粉丝、粉条",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "淀粉制品",
+            "target": "粉圆",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "淀粉制品",
+            "target": "藕粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "淀粉制品",
+            "target": "虾味片",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "焙烤食品",
+            "target": "面包",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "焙烤食品",
+            "target": "其他焙烤食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "焙烤食品",
+            "target": "焙烤食品馅料及表面用挂浆",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "焙烤食品",
+            "target": "饼干",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "焙烤食品",
+            "target": "糕点",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "糕点",
+            "target": "中式糕点（月饼除外）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "糕点",
+            "target": "糕点上彩装",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "糕点",
+            "target": "月饼",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "糕点",
+            "target": "西式糕点",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饼干",
+            "target": "夹心及装饰类饼干",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饼干",
+            "target": "其他饼干",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饼干",
+            "target": "蛋卷",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饼干",
+            "target": "威化饼干",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "肉及肉制品",
+            "target": "生、鲜肉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "肉及肉制品",
+            "target": "肉制品的可食用动物肠衣类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "肉及肉制品",
+            "target": "熟肉制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "肉及肉制品",
+            "target": "预制肉制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "生、鲜肉",
+            "target": "冻肉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "生、鲜肉",
+            "target": "冷却肉（包括排酸肉、冰鲜肉、冷鲜肉等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "生、鲜肉",
+            "target": "生鲜肉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "预制肉制品",
+            "target": "调理肉制品（生肉添加调理料）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "预制肉制品",
+            "target": "腌腊肉制品类（如咸肉、腊肉、板鸭、中式火腿、腊肠）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "酱卤肉制品类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "其他熟肉制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "肉罐头类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "熟肉干制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "发酵肉制品类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "肉灌肠类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "西式火腿（熏烤、烟熏、蒸煮火腿）类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "油炸肉类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉制品",
+            "target": "熏、烧、烤肉类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酱卤肉制品类",
+            "target": "白煮肉类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酱卤肉制品类",
+            "target": "糟肉类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酱卤肉制品类",
+            "target": "酱卤肉类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉干制品",
+            "target": "肉松类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉干制品",
+            "target": "肉脯类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟肉干制品",
+            "target": "肉干类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水产及其制品（包括鱼类、甲壳类、贝类、软体类、棘皮类等水产及其加工制品等）",
+            "target": "鲜水产",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水产及其制品（包括鱼类、甲壳类、贝类、软体类、棘皮类等水产及其加工制品等）",
+            "target": "其他水产品及其制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水产及其制品（包括鱼类、甲壳类、贝类、软体类、棘皮类等水产及其加工制品等）",
+            "target": "水产品罐头",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水产及其制品（包括鱼类、甲壳类、贝类、软体类、棘皮类等水产及其加工制品等）",
+            "target": "熟制水产品（可直接食用）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水产及其制品（包括鱼类、甲壳类、贝类、软体类、棘皮类等水产及其加工制品等）",
+            "target": "预制水产品（半成品）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水产及其制品（包括鱼类、甲壳类、贝类、软体类、棘皮类等水产及其加工制品等）",
+            "target": "冷冻水产品及其制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻水产品及其制品",
+            "target": "冷冻水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻水产品及其制品",
+            "target": "冷冻鱼糜制品（包括鱼丸等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "冷冻水产品及其制品",
+            "target": "冷冻挂浆制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "预制水产品（半成品）",
+            "target": "其他预制水产品（如鱼肉饺皮）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "预制水产品（半成品）",
+            "target": "风干、烘干、压干等水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "预制水产品（半成品）",
+            "target": "鱼子制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "预制水产品（半成品）",
+            "target": "腌制水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "预制水产品（半成品）",
+            "target": "醋渍或肉冻状水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟制水产品（可直接食用）",
+            "target": "熟干水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟制水产品（可直接食用）",
+            "target": "鱼肉灌肠类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟制水产品（可直接食用）",
+            "target": "发酵水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟制水产品（可直接食用）",
+            "target": "熏、烤水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "熟制水产品（可直接食用）",
+            "target": "经烹调或油炸的水产品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋及蛋制品",
+            "target": "鲜蛋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋及蛋制品",
+            "target": "其他蛋制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋及蛋制品",
+            "target": "蛋制品（改变其物理性状）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋及蛋制品",
+            "target": "再制蛋（不改变物理性状）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "再制蛋（不改变物理性状）",
+            "target": "卤蛋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "再制蛋（不改变物理性状）",
+            "target": "其他再制蛋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "再制蛋（不改变物理性状）",
+            "target": "咸蛋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "再制蛋（不改变物理性状）",
+            "target": "皮蛋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "再制蛋（不改变物理性状）",
+            "target": "糟蛋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋制品（改变其物理性状）",
+            "target": "脱水蛋制品（如蛋白粉、蛋黄粉、蛋白片）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋制品（改变其物理性状）",
+            "target": "蛋液与液体蛋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋制品（改变其物理性状）",
+            "target": "热凝固蛋制品（如蛋黄酪、松花蛋肠）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味料，包括蜂蜜",
+            "target": "食糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味料，包括蜂蜜",
+            "target": "其他甜味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味料，包括蜂蜜",
+            "target": "调味糖浆",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味料，包括蜂蜜",
+            "target": "餐桌甜味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味料，包括蜂蜜",
+            "target": "蜂蜜及花粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味料，包括蜂蜜",
+            "target": "淀粉糖（果糖、葡萄糖、饴糖、部分转化糖等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "食糖",
+            "target": "其他糖和糖浆[如红糖、赤砂糖、冰片糖、原糖、果糖（蔗糖来源）、糖蜜、部分转化糖、槭树糖浆等]",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "食糖",
+            "target": "白糖及白糖制品（如白砂糖、绵白糖、冰糖、方糖等）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蜂蜜及花粉",
+            "target": "蜂蜜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蜂蜜及花粉",
+            "target": "花粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味糖浆",
+            "target": "水果调味糖浆",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味糖浆",
+            "target": "其他调味糖浆",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "盐及代盐制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "其他调味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "复合调味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "香辛料类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "--",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "料酒及制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "酱及酱制品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "酱油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "醋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "调味品",
+            "target": "鲜味剂和助鲜剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "醋",
+            "target": "酿造食醋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "醋",
+            "target": "配制食醋",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酱油",
+            "target": "酿造酱油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酱油",
+            "target": "配制酱油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酱及酱制品",
+            "target": "酿造酱",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酱及酱制品",
+            "target": "配制酱",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "香辛料类",
+            "target": "其他香辛料加工品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "香辛料类",
+            "target": "香辛料酱（如芥末酱、青芥酱）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "香辛料类",
+            "target": "香辛料油",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "香辛料类",
+            "target": "香辛料及粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "复合调味料",
+            "target": "固体复合调味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "复合调味料",
+            "target": "液体复合调味料（不包括12.03，12.04）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "复合调味料",
+            "target": "半固体复合调味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "固体复合调味料",
+            "target": "固体汤料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "固体复合调味料",
+            "target": "其他固体复合调味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "固体复合调味料",
+            "target": "鸡精、鸡粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "半固体复合调味料",
+            "target": "蛋黄酱、沙拉酱",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "半固体复合调味料",
+            "target": "其他半固体复合调味料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "半固体复合调味料",
+            "target": "以蔬菜为基料的调味酱",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "半固体复合调味料",
+            "target": "以动物性原料为基料的调味酱",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "液体复合调味料（不包括12.03，12.04）",
+            "target": "浓缩汤（罐装、瓶装）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "液体复合调味料（不包括12.03，12.04）",
+            "target": "蚝油、虾油、鱼露等",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "液体复合调味料（不包括12.03，12.04）",
+            "target": "调味清汁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "液体复合调味料（不包括12.03，12.04）",
+            "target": "肉汤、骨汤",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "特殊膳食用食品",
+            "target": "婴幼儿配方食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "特殊膳食用食品",
+            "target": "其他特殊膳食用食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "特殊膳食用食品",
+            "target": "--",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "特殊膳食用食品",
+            "target": "婴幼儿辅助食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "婴幼儿配方食品",
+            "target": "特殊医学用途婴儿配方食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "婴幼儿配方食品",
+            "target": "较大婴儿和幼儿配方食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "婴幼儿配方食品",
+            "target": "婴儿配方食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "婴幼儿辅助食品",
+            "target": "婴幼儿罐装辅助食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "婴幼儿辅助食品",
+            "target": "婴幼儿谷类辅助食品",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "包装饮用水类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "其他类饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "风味饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "特殊用途饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "茶、咖啡、植物（类）饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "碳酸饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "蛋白饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "饮料类",
+            "target": "果蔬汁类及其饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "包装饮用水类",
+            "target": "其他类饮用水",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "包装饮用水类",
+            "target": "饮用纯净水",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "包装饮用水类",
+            "target": "饮用天然矿泉水",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "果蔬汁类及其饮料",
+            "target": "果蔬汁（浆）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "果蔬汁类及其饮料",
+            "target": "果蔬汁（浆）类饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "果蔬汁类及其饮料",
+            "target": "浓缩果蔬汁（浆）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白饮料",
+            "target": "含乳饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白饮料",
+            "target": "其他蛋白饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白饮料",
+            "target": "复合蛋白饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白饮料",
+            "target": "植物蛋白饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "含乳饮料",
+            "target": "发酵型含乳饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "含乳饮料",
+            "target": "乳酸菌饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "含乳饮料",
+            "target": "配制型含乳饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "碳酸饮料",
+            "target": "可乐型碳酸饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "碳酸饮料",
+            "target": "其他型碳酸饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "茶、咖啡、植物（类）饮料",
+            "target": "茶（类）饮料类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "茶、咖啡、植物（类）饮料",
+            "target": "植物饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "茶、咖啡、植物（类）饮料",
+            "target": "咖啡（类）饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "固体饮料",
+            "target": "--",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "固体饮料",
+            "target": "其他固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "固体饮料",
+            "target": "速溶咖啡",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "固体饮料",
+            "target": "蛋白固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白固体饮料",
+            "target": "含乳蛋白固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白固体饮料",
+            "target": "其他蛋白固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白固体饮料",
+            "target": "复合蛋白固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白固体饮料",
+            "target": "植物蛋白固体饮料",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "茶多酚（又名维多酚）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙酰化双淀粉己二酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙酰化二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙酰化单、双甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "氧化羟丙基淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "氧化淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "甜菜红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "天然胡萝卜素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "酸处理淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "其他类食品添加剂",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "氯化钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "硫酸镁",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "乳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "葡萄糖酸亚铁",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "磷酸氢钙",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "轻质碳酸钙Ⅰ类",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "植酸(又名肌醇六磷酸)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "维生素E(dl-α-生育酚,d-α-生育酚,混合生育酚浓缩物)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "其他酸度调节剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "DL-苹果酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "富马酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "偏酒石酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "柠檬酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "碳酸氢三钠(又名倍半碳酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "DL-苹果酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "L-苹果酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "柠檬酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "己二酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "冰乙酸(低压羰基化法)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "DL-酒石酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "碳酸氢钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "富马酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "冰乙酸(冰醋酸)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "葡萄糖酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "氢氧化钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "碳酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "盐酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "L(+)-酒石酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "柠檬酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "氢氧化钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "碳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "乳酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酸度调节剂",
+            "target": "柠檬酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "其他抗结剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "亚铁氰化钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸二氢钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸氢钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "焦磷酸二氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "微晶纤维素",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸氢二钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "焦磷酸四钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "二氧化硅",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "可溶性大豆多糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "三聚磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸氢二铵",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸三钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "焦磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "聚甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "柠檬酸铁铵",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸二氢钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸三钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "滑石粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "焦磷酸一氢三钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "六偏磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸二氢钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "磷酸三钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗结剂",
+            "target": "硅酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "消泡剂",
+            "target": "丙二醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "消泡剂",
+            "target": "吐温80",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "消泡剂",
+            "target": "吐温60",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "消泡剂",
+            "target": "吐温20",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "消泡剂",
+            "target": "吐温40",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "其他抗氧化剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "抗坏血酸(又名维生素C)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "抗坏血酸棕榈酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "植酸(又名肌醇六磷酸)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "没食子酸酯(PG)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "D-异抗坏血酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "维生素E(dl-α-生育酚,d-α-生育酚,混合生育酚浓缩物)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "特丁基对苯二酚(TBHQ)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "茶多酚(又名维多酚)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "4-己基间苯二酚",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "竹叶抗氧化物",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "迷迭香提取物(超临界二氧化碳萃取法)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "硫代二丙酸二月桂酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "乙二胺四乙酸二钠钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "茶多酚棕榈酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "抗坏血酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "羟基硬脂精(又名氧化硬脂精)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "二丁基羟基甲苯(BHT)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "迷迭香提取物",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "抗坏血酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "D-异抗坏血酸钠(异VC钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "丁基羟基茴香醚(BHA)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "乙二胺四乙酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "甘草抗氧化物",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "抗氧化剂",
+            "target": "植酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "漂白剂",
+            "target": "亚硫酸氢钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "漂白剂",
+            "target": "硫磺",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "漂白剂",
+            "target": "焦亚硫酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "漂白剂",
+            "target": "二氧化硫",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "漂白剂",
+            "target": "低亚硫酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "漂白剂",
+            "target": "亚硫酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "漂白剂",
+            "target": "焦亚硫酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "硫酸铝铵(又名铵明矾)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "焦磷酸二氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸氢二钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "酒石酸氢钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸三钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "硫酸铝钾(又名钾明矾)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "焦磷酸四钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "酸式焦磷酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸氢二铵",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸三钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "重质碳酸钙Ⅰ类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "三聚磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸二氢钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "碳酸氢钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸氢钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "轻质碳酸钙Ⅰ类",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "六偏磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸二氢钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "碳酸氢铵",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "焦磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "焦磷酸一氢三钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "聚偏磷酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "磷酸三钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "膨松剂",
+            "target": "碳酸镁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "其他胶基糖果中基础剂物质",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "松香(松香、木松香、妥尔松香)季戊四醇酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "妥尔松香甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "芡茨棕树胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "节路顿胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "部分氢化松香(松香、木松香、妥尔松香)甲酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "聚合松香(木松香、妥尔松香)甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "醋酸乙烯酯-月桂酸乙烯酯共聚物",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "聚乙烯蜡均聚物",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "巴拉塔树胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "丁基橡胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "部分氢化松香(松香、木松香、妥尔松香)季戊四醇酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "木松香甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "糖胶树胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "丁苯橡胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "部分氢化松香(松香、木松香、妥尔松香)甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "合成树脂(包括萜烯树脂)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "聚醋酸乙烯酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "来开欧胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "聚乙烯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "部分二聚松香(松香、木松香、妥尔松香)甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "天然橡胶(乳胶固形物)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "松香甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "聚异丁烯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "胶基糖果基础剂",
+            "target": "聚丁烯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "着色剂",
+            "target": "合成着色剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "着色剂",
+            "target": "天然着色剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "护色剂",
+            "target": "亚硝酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "护色剂",
+            "target": "硝酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "护色剂",
+            "target": "D-异抗坏血酸钠(异VC钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "护色剂",
+            "target": "D-异抗坏血酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "护色剂",
+            "target": "葡萄糖酸亚铁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "护色剂",
+            "target": "亚硝酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "护色剂",
+            "target": "硝酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "其他乳化剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "山梨醇酐单硬脂酸酯(又名司盘60)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "双乙酰酒石酸单双甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "乳酸脂肪酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "丙二醇脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "山梨醇酐三硬脂酸酯(又名司盘65)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "聚甘油蓖麻醇酸酯(PGPR)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "辛烯基琥珀酸淀粉钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "辛,癸酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "酶解大豆磷脂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "山梨醇酐单棕榈酸酯(又名司盘40)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "酪蛋白酸钠(又名酪朊酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "柠檬酸脂肪酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "氢化松香甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "改性大豆磷脂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "山梨醇酐单月桂酸酯(又名司盘20)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "聚氧乙烯木糖醇酐单硬脂酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "木糖醇酐单硬脂酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "聚甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "铵磷脂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "山梨醇酐单油酸酯(又名司盘80)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "乙酰化单、双甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "单,双甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "琥珀酸单甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "乳化剂",
+            "target": "磷脂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "其他酶制剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "α-乙酰乳酸脱羧酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "β—葡萄糖酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "谷氨酰胺酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "纤维素酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "甘油磷脂胆固醇酰基转移酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "多聚半乳糖醛酸酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "β-淀粉酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "粗制凝乳酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "单宁酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "果胶酯酶(果胶甲基酯酶)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "阿拉伯呋喃糖苷酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "α—淀粉酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "菠萝蛋白酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "核酸酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "蛋白酶(包括乳凝块酶)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "谷氨酰胺转氨酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "果胶裂解酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "半纤维素酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "果胶酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "环糊精葡萄糖苷转移酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "α-半乳糖苷酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "过氧化氢酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "氨基肽酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "酶制剂",
+            "target": "植酸酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "L-谷氨酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "5'-呈味核苷酸二钠(又名呈味核苷酸二钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "5'-鸟苷酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "辣椒油树脂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "谷氨酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "氨基乙酸(又名甘氨酸)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "5'-肌苷酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "琥珀酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "L-丙氨酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增味剂",
+            "target": "糖精钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "面粉处理剂",
+            "target": "偶氮甲酰胺",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "面粉处理剂",
+            "target": "L-半胱氨酸盐酸盐",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "面粉处理剂",
+            "target": "抗坏血酸(又名维生素C)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "面粉处理剂",
+            "target": "重质碳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "面粉处理剂",
+            "target": "轻质碳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "面粉处理剂",
+            "target": "碳酸镁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "松香季戊四醇酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "巴西棕榈蜡",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "聚乙二醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "脱乙酰甲壳素(又名壳聚糖)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "聚二甲基硅氧烷及其乳液",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "可溶性大豆多糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "普鲁兰多糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "蜂蜡",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "吗啉脂肪酸盐(又名果蜡)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "硬脂酸(十八烷酸)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "白油(液体石蜡)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "聚乙烯醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "被膜剂",
+            "target": "紫胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "其他水分保持剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "六偏磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸二氢钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "山梨糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸氢钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "甘油(又名丙三醇)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸二氢钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "焦磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "乳酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "焦磷酸一氢三钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸氢二钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "聚偏磷酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸三钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "乳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "焦磷酸二氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸氢二铵",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸三钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "丙二醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "焦磷酸四钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "三聚磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸二氢钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "山梨糖醇液",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸三钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "水分保持剂",
+            "target": "磷酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "其他防腐剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "对羟基苯甲酸乙酯钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "2,4-二氯苯氧乙酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "二氧化碳",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "溶菌酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "二甲基二碳酸盐(又名维果灵)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "对羟基苯甲酸甲酯钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "单辛酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "苯甲酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "丙酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "脱氢乙酸钠(又名脱氢醋酸钠）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "联苯醚(又名二苯醚)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "乳酸链球菌素",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "山梨酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "丙酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "脱氢乙酸(又名脱氢醋酸）",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "ε-聚赖氨酸盐酸盐",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "ε-聚赖氨酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "山梨酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "苯甲酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "双乙酸钠(又名二醋酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "对羟基苯甲酸乙酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "纳他霉素",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "肉桂醛",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "防腐剂",
+            "target": "丙酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "其他稳定剂和凝固剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "硫酸铝铵(又名铵明矾)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "聚甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "D-甘露糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "乳糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "甲壳素(又名几丁质)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "海藻酸丙二醇酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "乳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "氯化镁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "聚氧乙烯(20)山梨醇酐单月桂酸酯(又名吐温20)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "黄原胶(又名汉生胶)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "柠檬酸亚锡二钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "聚葡萄糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "氯化钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "聚甘油蓖麻醇酯(PGPR)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "葡萄糖酸-δ-内酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "谷氨酰胺转胺酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "刺梧桐胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "丙二醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "硫酸铝钾(又名钾明矾)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "硫酸钙(又名石膏)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "丙二醇脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "碳酸镁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "稳定剂和凝固剂",
+            "target": "果胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "乙酰磺胺酸钾(又名安赛蜜)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "甘草酸一钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "山梨糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "阿力甜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "天门冬酰苯丙氨酸甲酯乙酰磺胺酸",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "三氯蔗糖(又名蔗糖素)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "甘草酸三钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "麦芽糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "糖精钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "乳糖醇(又名4-β-D吡喃半乳糖-D-山梨醇)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "环己基氨基磺酸钙",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "山梨糖醇液",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "甘草酸铵",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "索马甜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "天门冬酰苯丙氨酸甲酯(又名阿斯巴甜)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "罗汉果甜苷",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "麦芽糖醇液",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "赤藓糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "木糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "环己基氨基磺酸钠(又名甜蜜素)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "D-甘露糖醇",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "异麦芽酮糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "甜菊糖苷",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "纽甜",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "甜味剂",
+            "target": "其它甜味剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "其他增稠剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "羧甲基淀粉钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "α-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "聚葡萄糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "卡拉胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "亚麻籽胶(又名富兰克胶)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "罗望子多糖胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "聚丙烯酸钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "刺云实胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "决明胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "海藻酸钠(又名褐藻酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "淀粉磷酸酯钠",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "醋酸酯淀粉",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "阿拉伯胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "海萝胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "槐豆胶(又名刺槐豆胶)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "γ-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "皂荚糖胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "田菁胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "瓜尔胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "海藻酸丙二醇酯",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "β-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "可得然胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "沙蒿胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "增稠剂",
+            "target": "果胶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "其他类食品添加剂",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "酪蛋白酸钠(又名酪朊酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "半乳甘露聚糖",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "乳铁蛋白",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "异构化乳糖液",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "乳糖酶",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "氯化钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "硫酸亚铁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "硫酸锌",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "硫酸镁",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "咖啡因",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "高锰酸钾",
+            "values": 3
+        },
+        {
+            "relation": "划分",
+            "source": "其它食品添加剂",
+            "target": "冰结构蛋白",
+            "values": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "复合蛋白固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "其他蛋白固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "速溶咖啡",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "其他固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "果蔬粉",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "果蔬固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "茶类固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "植物固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "风味固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "特殊用途固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "焦糖色（加氨生产）",
+            "size": "10",
+            "function": "着色剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "焦糖色（苛性硫酸盐）",
+            "size": "10",
+            "function": "着色剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "焦糖色（亚硫酸铵法）",
+            "size": "10",
+            "function": "着色剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "焦糖色（普通法）",
+            "size": "10",
+            "function": "着色剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "喹啉黄",
+            "size": "10",
+            "function": "着色剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "山梨酸及其钾盐",
+            "size": "10",
+            "function": "防腐剂、抗氧化剂、稳定剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "二氧化硫，焦亚硫酸钾，焦亚硫酸钠，亚硫酸钠，亚硫酸氢钠，低亚硫酸钠",
+            "size": "10",
+            "function": "抗氧化剂、防腐剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "纳他霉素",
+            "size": "10",
+            "function": "防腐剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "二氧化硫，焦亚硫酸钾，焦亚硫酸钠，亚硫酸钠，亚硫酸氢钠，低亚硫酸钠",
+            "size": "10",
+            "function": "漂白剂、防腐剂、抗氧化剂"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "L（+）-酒石酸，dl-酒石酸",
+            "size": "10",
+            "function": "酸度调节剂"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州瑞普生物工程有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州晨阳化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河北润步生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "武汉万荣科技发展有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "陕西斯诺特生物技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏科伦多食品配料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南德鑫化工实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州鸿祥化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南博皓食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州市管城区天通食化商行",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "昆山荣佰生物技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南秋之润食品配料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "无",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏源之源生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "合肥盛润生物制品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "西安大丰收生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南通商进出口有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海陆广生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "扶风斯诺特生物科技有限公司销售部",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "迪马科技",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "嘉兴市维它食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "北京智云达科技股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "长沙明瑞化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北鑫润德化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "陕西晨明生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州仁恒化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州烁今化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "成都万象宏润生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海楚柏实验室设备有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "北京昆鹏化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "宁都县福明林产科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海颖心实验室设备有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "佛山市翁开尔贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "珠海靖浩生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北泛亚生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "安徽中旭生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江西百盈生物技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南通米尔斯贸易公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖南奥驰生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "杭州江晖科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "天津鹏和海达国际贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海雪捷化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "扶风斯诺特生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南宁庞博生物工程有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏锐阳生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海一基实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "北京普博斯生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河北绿川生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州裕和食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州宏兴食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海易巴化工原料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "成武旭泽食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北远成赛创科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州拜纳佛生物工程股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "山东雨田食品科技股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州市基量气体有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广西高通食品科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "杭州恒宇食品原料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "天津富海泰技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "无锡景耀生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "曲阜鲁豫食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州裕荣化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "安徽盈合生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南通飞宇生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "西安启通电子科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "山东福洋生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "成都中科溯源检测技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北鑫润德添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南盛之德商贸有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "连云港科德食品配料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "连云港泰达精细化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州龙和化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "武汉楚丰源科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州康源化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏紫东食品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "四川华堂聚瑞生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "武汉兴众诚科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州市润华食品添加剂有限责任公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南润诚化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海亿欣生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "青岛高科技工业园海博生物技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海甘源实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海新舜夏生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "武汉盛世天元生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州浩力化工有限公司销售部",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南省可以化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏益倍能医药技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "宁波北仑雅旭化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州瑞恒化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州文翔化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南森源本草天然产物股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "什邡市巨邦植物原料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "陕西三桥精细化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "济南汇丰达化工股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "连云港润普食品配料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "天新(青岛)食品股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "费县茂乾食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "临沂市河东区昌宏食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "青岛和盈食品配料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州市威伦食品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "宜都大恒碳酸钙开发有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南敬业食品添加剂销售部有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海津颂实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "苏州米尼精准营养科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "宿迁市现代化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "连云港恩尚化工产品贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南京甲乙信维化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "深圳市宏鑫源化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "武汉德合昌食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "连云港科德化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南京海洁净化设备有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "苏州帝斯漫生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "山东金发特环保科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "北京利康盛达科技发展有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "天津万科斯科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海乐坦实验器材有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "青岛香克斯贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "西安裕华生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "枣庄市市中区宏鑫源化工产品销售部",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "武汉合中生化制造有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "卜世国际贸易（上海）有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "徐州徐瑞多生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广东润华化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海源叶生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州利澳贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州永易食品原料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州大河食品科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海汇普工业化学品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州合诚实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南奥尼斯特食品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "杭州富春食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "山东苏柯汉生物工程股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "潍坊瑞辰生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海酶科生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "菏泽市明酶生物技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "烟台京都商贸有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海耐今实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州荣康化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "深圳拓建生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "北京索莱宝科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "北京中生瑞泰科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州强盛食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "武汉市合中生化制造有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "重庆赛普那斯生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南宁中诺生物工程有限责任公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "潍坊宁潍化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河北源创生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏瑞多生物工程有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北弘景化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海东索贸易有限公司河南办事处",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "珠海雅富兴源食品工业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河北鑫滔新材料科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏采薇生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "深圳伯顺化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海毅资润滑技术有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州凯业进出口贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海迈田化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "仙农生物科技（上海）有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州市享美化工科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海八发实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "东光县东盛蜂蜡厂",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "贵州川恒化工股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "什邡泰来化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海德津实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南省鲁山县永兴磷化有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "潍坊依恩生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "山东博宇精化有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北金铭洲工贸有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "深圳市芬析仪器制造有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州亿邦实业有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南京润邦化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "开封市百川汇宝香料有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南京狄尔格医药科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "珠海市双博杰科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海远慕生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "成都盛汇泰医药科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北嘉发胶原蛋白研究所",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "洛阳奇泓生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州升月进出口贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "山东滨州金盛新材料科技有限责任公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "无锡同创生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州虎克生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "陕西华旭创新科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "山东康勤生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "荆门市磊鑫石膏制品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州硕洋食品科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "广州市暨生元生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南宁东恒华道生物科技有限责任公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州超群化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南正通化工有限公司上海办事处",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州纤焙乐食品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州经济技术开发区纤焙乐烘焙店",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "湖北壮美生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "南京饴然食品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江苏先卓食品科技股份有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "扶风斯诺特生物科技有限公司市场部",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "无锡味可好食品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "江永百润福天然植物科技发展有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "常州洋森生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州市鸿程化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "厦门乐祺食品科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州保佰德生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南加力安生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "廉江市台兴海洋生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "北京天竹鸟食品添加剂有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南华建化工产品有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "苏州佳诚化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海将来实验设备有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "上海诺申食品贸易有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "河南华驰生物科技有限公司",
+            "size": "16"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "青岛食安库食品安全科技有限公司",
+            "size": "16"
+        }
+    ]
+}
