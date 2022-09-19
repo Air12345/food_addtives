@@ -5,36 +5,6 @@
             "source": "其他固体饮料",
             "target": "果蔬粉",
             "values": 3
-        },
-        {
-            "relation": "划分",
-            "source": "其他固体饮料",
-            "target": "除上述之外的其他固体饮料",
-            "values": 3
-        },
-        {
-            "relation": "划分",
-            "source": "其它食品添加剂",
-            "target": "硫酸镁",
-            "values": 3
-        },
-        {
-            "relation": "划分",
-            "source": "其它食品添加剂",
-            "target": "咖啡因",
-            "values": 3
-        },
-        {
-            "relation": "划分",
-            "source": "其它食品添加剂",
-            "target": "高锰酸钾",
-            "values": 3
-        },
-        {
-            "relation": "划分",
-            "source": "其它食品添加剂",
-            "target": "冰结构蛋白",
-            "values": 3
         }
     ],
     "nodes": [
@@ -47,18 +17,6 @@
         {
             "class": "食品",
             "group": "0",
-            "id": "其他蛋白固体饮料",
-            "size": "8"
-        },
-        {
-            "class": "食品",
-            "group": "0",
-            "id": "速溶咖啡",
-            "size": "8"
-        },
-        {
-            "class": "食品",
-            "group": "0",
             "id": "其他固体饮料",
             "size": "8"
         },
@@ -66,24 +24,6 @@
             "class": "食品",
             "group": "0",
             "id": "果蔬粉",
-            "size": "8"
-        },
-        {
-            "class": "食品",
-            "group": "0",
-            "id": "果蔬固体饮料",
-            "size": "8"
-        },
-        {
-            "class": "食品",
-            "group": "0",
-            "id": "茶类固体饮料",
-            "size": "8"
-        },
-        {
-            "class": "食品",
-            "group": "0",
-            "id": "植物固体饮料",
             "size": "8"
         },        
         {
