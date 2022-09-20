@@ -1,0 +1,3294 @@
+{
+    "links": [
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "茶多酚（又名维多酚）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙酰化双淀粉己二酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙酰化二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙酰化单、双甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "氧化羟丙基淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "氧化淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "甜菜红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "天然胡萝卜素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "酸处理淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "琼脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "羟丙基甲基纤维素（HPMC）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "羟丙基淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "葡萄糖酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "葡萄糖酸-δ-内酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "柠檬酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "柠檬酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "柠檬酸钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "柠檬酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "木糖醇",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "明胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "酶解大豆磷脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "罗汉果甜苷",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "磷酸酯双淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "聚丙烯酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "结冷胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "甲基纤维素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "海藻酸钾(又名褐藻酸钾)",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "谷氨酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "高粱红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "甘油(又名丙三醇)",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "改性大豆磷脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "赤藓糖醇<sup>4</sup>",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "冰乙酸（低压羰基化法）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "冰乙酸（又名冰醋酸）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "半乳甘露聚糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "阿拉伯胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "γ-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "α-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "DL",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "L-苹果酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "DL-苹果酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "5’-鸟苷酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "5’-肌苷酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "5’-呈味核苷酸二钠（又名呈味核苷酸二钠）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "D-异抗坏血酸及其钠盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "辛烯基琥珀酸淀粉钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "微晶纤维素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "碳酸氢钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "碳酸氢钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "碳酸氢铵",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "碳酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "碳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "碳酸钙（包括轻质和重质碳酸钙）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "羧甲基纤维素钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳糖醇（又名4－β－D吡喃半乳糖－D－山梨醇）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳酸脂肪酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "羟丙基二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "柠檬酸脂肪酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "氯化钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "磷脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "酪蛋白酸钠（又名酪朊酸钠）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "抗坏血酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "抗坏血酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "抗坏血酸（又名维生素C）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "卡拉胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "黄原胶（又名汉生胶）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "槐豆胶（又名刺槐豆胶）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "海藻酸钠(又名褐藻酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "果胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "瓜尔胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "柑橘黄",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "单，双甘油脂肪酸酯（油酸、亚油酸、棕榈酸、山嵛酸、硬脂酸、月桂酸、亚麻酸）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "醋酸酯淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "L（+）-酒石酸，dl-酒石酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "β-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "N-[N-(3,3-二甲基丁基)]－L-α-天门冬氨－L－苯丙氨酸1－甲酯（又名纽甜）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "硬脂酰乳酸钠，硬脂酰乳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "天门冬酰苯丙氨酸甲酯（又名阿斯巴甜）c",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "双乙酰酒石酸单双甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "辣椒红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "β-胡萝卜素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "苯甲酸及其钠盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "β－阿朴－8’－胡萝卜素醛",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "蔗糖脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "皂荚糖胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "诱惑红及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "异麦芽酮糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "异构化乳糖液",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙酰磺胺酸钾（又名安赛蜜）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乙二胺四乙酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "叶绿素铜钠盐，叶绿素铜钾盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "叶黄素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "杨梅红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "胭脂树橙（又名红木素，降红木素）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "胭脂虫红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "亚麻籽胶（又名富兰克胶）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "辛，癸酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "甜菊糖苷",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "天门冬酰苯丙氨酸甲酯乙酰磺胺酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "L-α-天冬氨酰-N-（2,2,4,4-四甲基-3-硫化三亚甲基）-D-丙氨酰胺（又名阿力甜）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "索马甜",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "山梨糖醇和山梨糖醇液",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "山梨酸及其钾盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "三氯蔗糖（又名蔗糖素）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳酸链球菌素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "葡萄皮红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "柠檬黄及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "麦芽糖醇和麦芽糖醇液",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "磷酸，焦磷酸二氢二钠，焦磷酸钠，磷酸二氢钙，磷酸二氢钾，磷酸氢二铵，磷酸氢二钾，磷酸氢钙，磷酸三钙，磷酸三钾，磷酸三钠，六偏磷酸钠，三聚磷酸钠，磷酸二氢钠，磷酸氢二钠，焦磷酸四钾，焦磷酸一氢三钠，聚偏磷酸钾，酸式焦磷酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "亮蓝及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "可溶性大豆多糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "聚葡萄糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "聚甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "姜黄",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "环己基氨基磺酸钠（又名甜蜜素），环己基氨基磺酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "海藻酸丙二醇酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "甘草酸铵，甘草酸一钾及三钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "富马酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "番茄红素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "番茄红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "淀粉磷酸酯钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "刺云实胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "ε-聚赖氨酸盐酸盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "二氧化碳",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "山梨醇酐单月桂酸酯（又名司盘20），山梨醇酐单棕榈酸酯（又名司盘40），山梨醇酐单硬脂酸酯（又名司盘60），山梨醇酐三硬脂酸酯（又名司盘65），山梨醇酐单油酸酯（又名司盘80）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "栀子蓝",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "栀子黄",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "苋菜红及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "碳酸镁",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "乳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "日落黄及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "磷酸化二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "焦糖色（亚硫酸铵法）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "己二酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "琥珀酸单甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "红曲米，红曲红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "红曲黄色素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "硅酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "二氧化钛",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "二氧化硅",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "维生素E（dl-α-生育酚，d-α-生育酚，混合生育酚浓缩物）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "复合蛋白固体饮料",
+            "target": "普鲁兰多糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "茶多酚（又名维多酚）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乙酰化双淀粉己二酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乙酰化二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乙酰化单、双甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "氧化羟丙基淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "氧化淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "甜菜红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "天然胡萝卜素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "酸处理淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "琼脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "羟丙基甲基纤维素（HPMC）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "羟丙基淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "葡萄糖酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "葡萄糖酸-δ-内酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "柠檬酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "柠檬酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "柠檬酸钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "柠檬酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "木糖醇",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "明胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "酶解大豆磷脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "罗汉果甜苷",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "磷酸酯双淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "聚丙烯酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "结冷胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "甲基纤维素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "海藻酸钾(又名褐藻酸钾)",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "谷氨酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "高粱红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "甘油(又名丙三醇)",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "改性大豆磷脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "赤藓糖醇<sup>4</sup>",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "冰乙酸（低压羰基化法）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "冰乙酸（又名冰醋酸）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "半乳甘露聚糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "阿拉伯胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "γ-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "α-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "DL",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "L-苹果酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "DL-苹果酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "5’-鸟苷酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "5’-肌苷酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "5’-呈味核苷酸二钠（又名呈味核苷酸二钠）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "D-异抗坏血酸及其钠盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "辛烯基琥珀酸淀粉钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "微晶纤维素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "碳酸氢钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "碳酸氢钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "碳酸氢铵",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "碳酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "碳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "碳酸钙（包括轻质和重质碳酸钙）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "羧甲基纤维素钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乳糖醇（又名4－β－D吡喃半乳糖－D－山梨醇）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乳酸脂肪酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乳酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乳酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "羟丙基二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "柠檬酸脂肪酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "氯化钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "磷脂",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "酪蛋白酸钠（又名酪朊酸钠）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "抗坏血酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "抗坏血酸钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "抗坏血酸（又名维生素C）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "卡拉胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "黄原胶（又名汉生胶）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "槐豆胶（又名刺槐豆胶）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "海藻酸钠(又名褐藻酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "果胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "瓜尔胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "柑橘黄",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "单，双甘油脂肪酸酯（油酸、亚油酸、棕榈酸、山嵛酸、硬脂酸、月桂酸、亚麻酸）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "醋酸酯淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "β-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "硬脂酰乳酸钠，硬脂酰乳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "天门冬酰苯丙氨酸甲酯（又名阿斯巴甜）c",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "双乙酰酒石酸单双甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "辣椒红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "β-胡萝卜素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "苯甲酸及其钠盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "β－阿朴－8’－胡萝卜素醛",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "蔗糖脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "皂荚糖胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "诱惑红及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "异麦芽酮糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "异构化乳糖液",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乙酰磺胺酸钾（又名安赛蜜）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乙二胺四乙酸二钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "叶绿素铜钠盐，叶绿素铜钾盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "叶黄素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "杨梅红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "胭脂树橙（又名红木素，降红木素）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "胭脂虫红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "亚麻籽胶（又名富兰克胶）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "辛，癸酸甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "甜菊糖苷",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "天门冬酰苯丙氨酸甲酯乙酰磺胺酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "L-α-天冬氨酰-N-（2,2,4,4-四甲基-3-硫化三亚甲基）-D-丙氨酰胺（又名阿力甜）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "索马甜",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "山梨糖醇和山梨糖醇液",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "山梨酸及其钾盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "三氯蔗糖（又名蔗糖素）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乳酸链球菌素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "葡萄皮红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "柠檬黄及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "麦芽糖醇和麦芽糖醇液",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "磷酸，焦磷酸二氢二钠，焦磷酸钠，磷酸二氢钙，磷酸二氢钾，磷酸氢二铵，磷酸氢二钾，磷酸氢钙，磷酸三钙，磷酸三钾，磷酸三钠，六偏磷酸钠，三聚磷酸钠，磷酸二氢钠，磷酸氢二钠，焦磷酸四钾，焦磷酸一氢三钠，聚偏磷酸钾，酸式焦磷酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "亮蓝及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "可溶性大豆多糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "聚葡萄糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "聚甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "姜黄",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "环己基氨基磺酸钠（又名甜蜜素），环己基氨基磺酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "海藻酸丙二醇酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "甘草酸铵，甘草酸一钾及三钾",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "富马酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "番茄红素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "番茄红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "淀粉磷酸酯钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "刺云实胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "ε-聚赖氨酸盐酸盐",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "二氧化碳",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "山梨醇酐单月桂酸酯（又名司盘20），山梨醇酐单棕榈酸酯（又名司盘40），山梨醇酐单硬脂酸酯（又名司盘60），山梨醇酐三硬脂酸酯（又名司盘65），山梨醇酐单油酸酯（又名司盘80）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "栀子蓝",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "栀子黄",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "苋菜红及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "碳酸镁",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "乳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "日落黄及其铝色淀",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "磷酸化二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "焦糖色（亚硫酸铵法）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "己二酸",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "琥珀酸单甘油酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "红曲米，红曲红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "红曲黄色素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "硅酸钙",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "二氧化钛",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "二氧化硅",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "维生素E（dl-α-生育酚，d-α-生育酚，混合生育酚浓缩物）",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "其他蛋白固体饮料",
+            "target": "普鲁兰多糖",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "可得然胶",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "乙酰化双淀粉己二酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "乙酰化二淀粉磷酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "乙酰化单、双甘油脂肪酸酯",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "氧化羟丙基淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "氧化淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "甜菜红",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "天然胡萝卜素",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "酸处理淀粉",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "果蔬粉",
+            "target": "乳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "其他类食品添加剂",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "氯化钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "硫酸镁",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "乳酸钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "葡萄糖酸亚铁",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "磷酸氢钙",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "轻质碳酸钙Ⅰ类",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "植酸(又名肌醇六磷酸)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "维生素E(dl-α-生育酚,d-α-生育酚,混合生育酚浓缩物)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "柠檬酸铁铵",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "DL-苹果酸钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "富马酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "富马酸",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "乳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "轻质碳酸钙",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "柠檬酸钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "山梨酸钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "羧甲基淀粉钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "聚葡萄糖",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "罗望子多糖胶",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "聚丙烯酸钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "醋酸酯淀粉",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "阿拉伯胶",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "β-环状糊精",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "山梨糖醇",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "麦芽糖醇",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "D-甘露糖醇",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "甜菊糖苷",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "其他稳定剂和凝固剂",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "硫酸钙(又名石膏)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "丙酸钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "脱氢乙酸钠(又名脱氢醋酸钠）",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "乳酸链球菌素",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "丙酸钙",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "双乙酸钠(又名二醋酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "其他水分保持剂",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "5'-呈味核苷酸二钠(又名呈味核苷酸二钠)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "α—淀粉酶",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "蛋白酶(包括乳凝块酶)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "谷氨酰胺转氨酶",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "果胶酶",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "酪蛋白酸钠(又名酪朊酸钠)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "焦磷酸二氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "三聚磷酸钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "磷酸二氢钾",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "轻质碳酸钙Ⅰ类",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "磷酸二氢钙",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "磷酸氢二钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "磷酸三钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "低亚硫酸钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "亚硫酸钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "焦亚硫酸钠",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "其他抗氧化剂",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "抗坏血酸棕榈酸酯",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "D-异抗坏血酸钠(异VC钠)",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "其他抗结剂",
+            "values": 3
+        },
+        {
+            "relation": "销售",
+            "source": "郑州晨阳化工有限公司",
+            "target": "微晶纤维素",
+            "values": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "复合蛋白固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "茶多酚（又名维多酚）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乙酰化双淀粉己二酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乙酰化二淀粉磷酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乙酰化单、双甘油脂肪酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "氧化羟丙基淀粉",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "氧化淀粉",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "甜菜红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "天然胡萝卜素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "酸处理淀粉",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乳酸钾",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "琼脂",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "羟丙基甲基纤维素（HPMC）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "羟丙基淀粉",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "葡萄糖酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "葡萄糖酸-δ-内酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柠檬酸一钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柠檬酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柠檬酸钾",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柠檬酸",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "木糖醇",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "明胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "酶解大豆磷脂",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "罗汉果甜苷",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸酯双淀粉",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "聚丙烯酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "结冷胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "甲基纤维素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "海藻酸钾(又名褐藻酸钾)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "谷氨酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "高粱红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "甘油(又名丙三醇)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "改性大豆磷脂",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "赤藓糖醇<sup>4</sup>",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "冰乙酸（低压羰基化法）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "冰乙酸（又名冰醋酸）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "半乳甘露聚糖",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "阿拉伯胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "γ-环状糊精",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "α-环状糊精",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "DL",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "L-苹果酸",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "DL-苹果酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "5’-鸟苷酸二钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "5’-肌苷酸二钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "5’-呈味核苷酸二钠（又名呈味核苷酸二钠）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "D-异抗坏血酸及其钠盐",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "辛烯基琥珀酸淀粉钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "微晶纤维素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "碳酸氢钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "碳酸氢钾",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "碳酸氢铵",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "碳酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "碳酸钾",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "碳酸钙（包括轻质和重质碳酸钙）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "羧甲基纤维素钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乳糖醇（又名4－β－D吡喃半乳糖－D－山梨醇）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乳酸脂肪酸甘油酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乳酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乳酸",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "羟丙基二淀粉磷酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柠檬酸脂肪酸甘油酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "氯化钾",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷脂",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "酪蛋白酸钠（又名酪朊酸钠）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "抗坏血酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "抗坏血酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "抗坏血酸（又名维生素C）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "卡拉胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "黄原胶（又名汉生胶）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "槐豆胶（又名刺槐豆胶）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "海藻酸钠(又名褐藻酸钠)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "果胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "瓜尔胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柑橘黄",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "单，双甘油脂肪酸酯（油酸、亚油酸、棕榈酸、山嵛酸、硬脂酸、月桂酸、亚麻酸）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "醋酸酯淀粉",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "L（+）-酒石酸，dl-酒石酸",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "β-环状糊精",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "N-[N-(3,3-二甲基丁基)]－L-α-天门冬氨－L－苯丙氨酸1－甲酯（又名纽甜）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "硬脂酰乳酸钠，硬脂酰乳酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "天门冬酰苯丙氨酸甲酯（又名阿斯巴甜）c",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "双乙酰酒石酸单双甘油酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "辣椒红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "β-胡萝卜素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "苯甲酸及其钠盐",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "β－阿朴－8’－胡萝卜素醛",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "蔗糖脂肪酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "皂荚糖胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "诱惑红及其铝色淀",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "异麦芽酮糖",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "异构化乳糖液",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乙酰磺胺酸钾（又名安赛蜜）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乙二胺四乙酸二钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "叶绿素铜钠盐，叶绿素铜钾盐",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "叶黄素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "杨梅红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "胭脂树橙（又名红木素，降红木素）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "胭脂虫红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "亚麻籽胶（又名富兰克胶）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "辛，癸酸甘油酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "甜菊糖苷",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "天门冬酰苯丙氨酸甲酯乙酰磺胺酸",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "L-α-天冬氨酰-N-（2,2,4,4-四甲基-3-硫化三亚甲基）-D-丙氨酰胺（又名阿力甜）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "索马甜",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "山梨糖醇和山梨糖醇液",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "山梨酸及其钾盐",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "三氯蔗糖（又名蔗糖素）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乳酸链球菌素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "葡萄皮红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柠檬黄及其铝色淀",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "麦芽糖醇和麦芽糖醇液",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸，焦磷酸二氢二钠，焦磷酸钠，磷酸二氢钙，磷酸二氢钾，磷酸氢二铵，磷酸氢二钾，磷酸氢钙，磷酸三钙，磷酸三钾，磷酸三钠，六偏磷酸钠，三聚磷酸钠，磷酸二氢钠，磷酸氢二钠，焦磷酸四钾，焦磷酸一氢三钠，聚偏磷酸钾，酸式焦磷酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "亮蓝及其铝色淀",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "可溶性大豆多糖",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "聚葡萄糖",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "聚甘油脂肪酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "姜黄",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "环己基氨基磺酸钠（又名甜蜜素），环己基氨基磺酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "海藻酸丙二醇酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "甘草酸铵，甘草酸一钾及三钾",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "富马酸一钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "番茄红素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "番茄红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "淀粉磷酸酯钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "刺云实胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "ε-聚赖氨酸盐酸盐",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "二氧化碳",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "山梨醇酐单月桂酸酯（又名司盘20），山梨醇酐单棕榈酸酯（又名司盘40），山梨醇酐单硬脂酸酯（又名司盘60），山梨醇酐三硬脂酸酯（又名司盘65），山梨醇酐单油酸酯（又名司盘80）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "栀子蓝",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "栀子黄",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "苋菜红及其铝色淀",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "碳酸镁",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "乳酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "日落黄及其铝色淀",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸化二淀粉磷酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "焦糖色（亚硫酸铵法）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "己二酸",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "琥珀酸单甘油酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "红曲米，红曲红",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "红曲黄色素",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "硅酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "二氧化钛",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "二氧化硅",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "维生素E（dl-α-生育酚，d-α-生育酚，混合生育酚浓缩物）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "普鲁兰多糖",
+            "size": "10"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "其他蛋白固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "果蔬粉",
+            "size": "8"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "可得然胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "其他类食品添加剂",
+            "size": "10"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州瑞普生物工程有限公司",
+            "size": "16"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "硫酸镁",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "葡萄糖酸亚铁",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸氢钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "轻质碳酸钙Ⅰ类",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "植酸(又名肌醇六磷酸)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "维生素E(dl-α-生育酚,d-α-生育酚,混合生育酚浓缩物)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "柠檬酸铁铵",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "富马酸",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "轻质碳酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "山梨酸钾",
+            "size": "10"
+        },
+        {
+            "class": "公司",
+            "group": "2",
+            "id": "郑州晨阳化工有限公司",
+            "size": "16"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "羧甲基淀粉钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "罗望子多糖胶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "山梨糖醇",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "麦芽糖醇",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "D-甘露糖醇",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "其他稳定剂和凝固剂",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "硫酸钙(又名石膏)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "丙酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "脱氢乙酸钠(又名脱氢醋酸钠）",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "丙酸钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "双乙酸钠(又名二醋酸钠)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "其他水分保持剂",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "5'-呈味核苷酸二钠(又名呈味核苷酸二钠)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "α—淀粉酶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "蛋白酶(包括乳凝块酶)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "谷氨酰胺转氨酶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "果胶酶",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "酪蛋白酸钠(又名酪朊酸钠)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "焦磷酸二氢二钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "三聚磷酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸二氢钾",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸二氢钙",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸氢二钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "磷酸三钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "低亚硫酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "亚硫酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "焦亚硫酸钠",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "其他抗氧化剂",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "抗坏血酸棕榈酸酯",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "D-异抗坏血酸钠(异VC钠)",
+            "size": "10"
+        },
+        {
+            "class": "食品添加剂",
+            "group": "1",
+            "id": "其他抗结剂",
+            "size": "10"
+        }
+    ]
+}
