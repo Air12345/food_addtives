@@ -2,13 +2,13 @@
     "links": [
         {
             "relation": "划分",
-            "source": "蛋白固体饮料",
+            "source": "蛋白固体饮料（）",
             "target": "复合蛋白固体饮料",
             "value": 3
         },
         {
             "relation": "划分",
-            "source": "蛋白固体饮料",
+            "source": "蛋白固、体饮料",
             "target": "其他蛋白固体饮料",
             "value": 3
         }
