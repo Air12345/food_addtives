@@ -1,0 +1,54 @@
+{
+    "links": [
+        {
+            "relation": "划分",
+            "source": "蛋白固体饮料、",
+            "target": "复合蛋白固体饮料",
+            "value": 3
+        },
+        {
+            "relation": "划分",
+            "source": "蛋白固体饮料",
+            "target": "其他蛋白固体饮料（0",
+            "value": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "发酵蔬菜制品",
+            "value": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "经水煮或油炸的蔬菜",
+            "value": 3
+        },
+        {
+            "relation": "划分",
+            "source": "加工蔬菜",
+            "target": "其他加工蔬菜",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "蛋白固体饮料、",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "复合蛋白固体饮料",
+            "size": "8"
+        },
+        {
+            "class": "食品",
+            "group": "0",
+            "id": "其他蛋白固体饮料（0",
+            "size": "8"
+        }
+    ]
+}
