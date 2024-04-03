@@ -4,7 +4,7 @@
             "relation": "含有",
             "source": "蜜饯类",
             "target": "柠檬酸一钠",
-            "values": 30
+            "values": 3
         },
         {
             "relation": "划分",
@@ -30,31 +30,31 @@
             "class": "食品",
             "group": "0",
             "id": "蜜饯类",
-            "size": "12"
+            "size": "16"
         },
         {
             "class": "食品",
             "group": "0",
             "id": "蜜饯凉果",
-            "size": "12"
+            "size": "16"
         },
         {
             "class": "食品",
             "group": "0",
             "id": "加工水果",
-            "size": "12"
+            "size": "16"
         },
         {
             "class": "食品添加剂",
             "group": "1",
             "id": "柠檬酸一钠",
-            "size": "12"
+            "size": "16"
         },
         {
             "class": "公司",
             "group": "2",
             "id": "郑州晨阳化工有限公司",
-            "size": "12"
+            "size": "16"
         }
     ]
 }
