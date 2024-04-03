@@ -2,7 +2,19 @@
     "links": [
         {
             "relation": "含有",
+            "source": "蜜饯凉果",
+            "target": "柠檬酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
             "source": "蜜饯类",
+            "target": "柠檬酸一钠",
+            "values": 3
+        },
+        {
+            "relation": "含有",
+            "source": "加工水果",
             "target": "柠檬酸一钠",
             "values": 3
         },
