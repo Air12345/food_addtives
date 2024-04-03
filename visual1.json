@@ -42,6 +42,12 @@
             "target": "柠檬酸一钠",
             "values": 3
         },
+         {
+            "relation": "销售",
+            "source": "郑州瑞普生物工程有限公司",
+            "target": "柠檬酸一钠",
+            "values": 3
+        },
         {
             "relation": "销售",
             "source": "郑州瑞普生物工程有限公司",
