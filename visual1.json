@@ -13,6 +13,12 @@
             "values": 3
         },
         {
+            "relation": "划分",
+            "source": "蜜饯类",
+            "target": "蜜饯凉果",
+            "values": 3
+        },
+        {
             "relation": "销售",
             "source": "郑州晨阳化工有限公司",
             "target": "柠檬酸一钠",
